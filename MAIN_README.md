@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data_Analysis_Projects
 This repo contains my Data analysis projects and it's README acts as a directory for all my Data analyst projects.
 
@@ -20,3 +21,6 @@ Each folder represents a separate project with its own dataset, dashboard, and i
 
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
+=======
+"" 
+>>>>>>> dbb4445 (Initial commit - Bookstore Analysis)
