@@ -4,6 +4,11 @@ This repository contains a data analysis project using **Python, SQL, SQL Server
 
 ---
 
+###  **Bookstore Sales Analysis**
+   - **Focus**: Understanding decline in sales, author impact, and book performance.
+     
+---
+
 ## 1- Project Scope 🎯 : (https://drive.google.com/file/d/1f2wPtNKop6cCAE7Xl5G7BWNqvNdMYowp/view?usp=sharing)
 - Define the main business problem: Decline in bookstore sales.  
 - Key objectives:  
@@ -11,11 +16,6 @@ This repository contains a data analysis project using **Python, SQL, SQL Server
   - Understand author contribution to overall revenue.  
   - Identify best-selling vs. underperforming books.  
   - Provide actionable recommendations for improving sales.  
-
----
-
-###  **Bookstore Sales Analysis**
-   - **Focus**: Understanding decline in sales, author impact, and book performance.  
 
 ---
 
