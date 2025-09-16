@@ -26,6 +26,5 @@ df.dropna(inplace=True)
 #Save cleaned data to a new CSV file
 df.to_csv("books_clean.csv", index=False)
 
-print("\n books_clean.csv is done will work on it"
-      "  in power pi and make sql queries ✅ ")
+
 
