@@ -1,13 +1,13 @@
 # 📌 Project Scope (https://drive.google.com/file/d/1f2wPtNKop6cCAE7Xl5G7BWNqvNdMYowp/view?usp=sharing)
 
-## 🔹 What is the Scope?
+##  What is the Scope?
 I started this project by writing the **Scope Document**.  
 This scope is the first step in my work and it acts like the contract of the project.  
 It defines exactly what I will do, how I will do it, and what the final outputs will be.  
 
 ---
 
-## 🔹 Why I Created the Scope
+##  Why I Created the Scope
 - To make sure I have a **clear plan** before starting.  
 - To **organize all steps** of the project in the right order.  
 - To keep the project focused on solving the bookstore sales problem.  
@@ -15,7 +15,7 @@ It defines exactly what I will do, how I will do it, and what the final outputs 
 
 ---
 
-## 🔹 My Scope for this Project
+##  My Scope for this Project
 1. **Business Problem**:  
    The bookstore is facing a decline in sales and I need to analyze book and author performance.  
 
