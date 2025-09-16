@@ -29,7 +29,7 @@ Total Revenue = SUMX(
 ```DAX
 Num of Books = DISTINCTCOUNT(books_clean_with_authors_ids_sales[title])
 
-
+```
 ##  Dashboard Visuals
 
 -Cards: Total Revenue, Number of Books → quick KPIs.
