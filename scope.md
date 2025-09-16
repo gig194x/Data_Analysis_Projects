@@ -35,6 +35,6 @@ It defines exactly what I will do, how I will do it, and what the final outputs 
 
 ---
 
-## 🔹 Key Note
+##  Key Note
 This scope was my **starting point**.  
 It helped me stay focused, follow the right order, and make sure the final dashboard and insights deliver **real business value**.
