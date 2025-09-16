@@ -1,26 +1,63 @@
-<<<<<<< HEAD
-# Data_Analysis_Projects
-This repo contains my Data analysis projects and it's README acts as a directory for all my Data analyst projects.
+# Data Analysis Project 📊
 
- # Data Analysis Projects 📊
+This repository contains a data analysis project using **Python, SQL, SQL Server, BigQuery, Power BI, and Google Slides**.  
 
-This repository contains multiple data analysis projects using Python, SQL, and Power BI.  
-Each folder represents a separate project with its own dataset, dashboard, and insights.  
+---
 
-## Projects
+## Project Scope 🎯 : (https://drive.google.com/file/d/1f2wPtNKop6cCAE7Xl5G7BWNqvNdMYowp/view?usp=sharing)
+- Define the main business problem: Decline in bookstore sales.  
+- Key objectives:  
+  - Analyze book sales performance.  
+  - Understand author contribution to overall revenue.  
+  - Identify best-selling vs. underperforming books.  
+  - Provide actionable recommendations for improving sales.  
 
-1. **Bookstore Sales Analysis**
-   - Focus: Understanding decline in sales, author impact, and book performance.
-   - Tools: Python (Scrapy, Pandas), Power BI, SQL Server.
-   - Folder: [`bookstore-sales-analysis/`](./bookstore-sales-analysis)
+---
 
-## Tools Used
-- Python (Scrapy, Pandas, unite_test)
-- SQL Server 
-- Power BI(power query, Measures, DAX, Modeling, Visualization)
+### 1. **Bookstore Sales Analysis**
+   - **Focus**: Understanding decline in sales, author impact, and book performance.  
 
---------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
-=======
-"" 
->>>>>>> dbb4445 (Initial commit - Bookstore Analysis)
+---
+
+## This Project Contains:
+
+### 📂 Data Folder
+- **Collecting file**: Python code using Scrapy Framework to scrape the Online Bookstore and save data into DataFrame, Excel sheet, and CSV file.  
+  [Collecting Data](https://github.com/gig194x/Data_Analysis_Projects/blob/main/Data/Collecting)  
+
+- **Cleaning file**: Python code using Pandas Framework to clean and structure the data.  
+  [Cleaning Data](https://github.com/gig194x/Data_Analysis_Projects/blob/main/Data/Cleaning)  
+
+- **Testing**: Python test code using unittest framework and OOP to validate that:  
+  - No missing values.  
+  - All prices are numeric.  
+  - Ratings are within the range 1 to 5.  
+  [Testing Data](https://github.com/gig194x/Data_Analysis_Projects/blob/main/Data/Testing)  
+
+---
+
+### 📂 SQL Folder
+- **SQL Queries code** in SQL file:  
+  [SQL Queries](https://github.com/gig194x/Data_Analysis_Projects/blob/main/SQL/queries.sql)  
+
+- **SQL Queries in SQL Server & BigQuery** (database-focused analysis).  
+
+---
+
+### 📂 PowerBI Folder : link to Power BI Service (Cloud)  
+- Interactive dashboards created using **Power BI** to visualize:  
+  - Total revenue per author.  
+  - Top/Bottom performing books.  
+  - Trends in sales decline.  
+  - Comparison of ratings vs sales.  
+
+---
+
+### 📂 Presentation Folder : link to presentation ()
+- Final presentation slides created in **Google Slides** to summarize:  
+  - Project scope and objectives.  
+  - Key insights  
+  - Business recommendations.  
+
+---
+
