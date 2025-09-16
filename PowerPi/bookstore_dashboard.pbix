@@ -1,5 +1,97 @@
-Dashboard in Drive 
+# 📐 Data Modeling – Bookstore Dashboard
+
+## 🔹 Overview
+This data model is designed for a simple and efficient Power BI dashboard that analyzes book sales and author performance.  
+It uses a star-like structure with one central fact table and a supporting dimension table.
+
+---
+
+## 🔹 Tables
+
+### Fact table
+**`books_clean_with_authors_ids_sales`**  
+Contains book-level records used for analysis:
+- `book_id` (primary key)  
+- `title`  
+- `price`  
+- `sales_units`  
+- `rating`  
+- `author_id` (foreign key to authors)
+
+### Dimension table
+**`authors`**  
+Contains author metadata:
+- `author_id` (primary key)  
+- `author_name`
+
+---
+
+## 🔹 Relationship
+- `authors[author_id]` → `books_clean_with_authors_ids_sales[author_id]`  
+  (One author → many books. Each book → one author.)
+
+---
+
+## 🔹 Why this design?
+- **Simple & fast**: calculations (DAX) are easier and queries run faster.  
+- **Scalable**: you can add more dimension tables later (e.g., `publishers`, `genres`, `date`).  
+- **Business-aligned**: supports analysis at both book level (sales, revenue, price) and author level (top authors, book counts).
+
+---
+
+## 🔹 Quick use-cases (business questions this model answers)
+- Who are the top 5 revenue-generating authors?  
+- Which books are underperforming and need marketing support?  
+- What is the average revenue per book by author?  
+- Which authors have many titles but low total revenue?
+
+---
+
+# 📊 Measures & Visuals – Bookstore Dashboard
+
+## 🔹 Measures Created
+
+**Total Revenue**  
+```DAX
+Total Revenue = SUMX(
+    books_clean_with_authors_ids_sales,
+    books_clean_with_authors_ids_sales[price] * books_clean_with_authors_ids_sales[sales_units]
+)
+
+
+
+📈 Visuals in the Dashboard:
+Card Visual – Total Revenue
+Shows the total bookstore revenue.
+Business value: High-level KPI for decision makers.
+Card Visual – Number of Books
+Displays how many books are in the store.
+Business value: Quick overview of the catalog size.
+Table Visual with Book, Price, Rate, and Image
+Displays detailed book information (title, price, rating, cover image).
+Business value: Lets users filter by title and view its details.
+Line Chart – Lowest Selling Books
+X-axis: Book titles, Y-axis: Revenue.
+Business value: Identifies underperforming books that may require marketing push or discounting.
+Line Chart – Best Selling Books
+X-axis: Book titles, Y-axis: Revenue.
+Business value: Highlights the top contributors to revenue.
+Pie Chart – Most Published Author
+Shows authors with the largest number of published books.
+Business value: Reveals the most productive authors in the catalog.
+Pie Chart – Lowest Published Author
+Shows authors with the smallest number of published books.
+Business value: Helps compare distribution of authors and identify low contributors.
+Dropdown Slicer – Choose Book Title
+Allows filtering the dashboard by a specific book.
+Business value: Provides interactivity so stakeholders can analyze individual books.
+
+
+
+Dashboard Links
+
+Dashboard in Google Drive
 (https://drive.google.com/file/d/151yuB9DPJRQZU9aA2e6nka5aaZyAqvd5/view?usp=sharing)
 
-Dashboard in powerpi service cloud 
+Dashboard in Power BI Service (Cloud)
 (https://app.powerbi.com/groups/abc33743-11f1-4cc6-a0f8-0af59e0e9a8c/reports/a872ad24-ea6f-40bd-988d-0b708a01832d/9cbd29265d740196aaf2?experience=power-bi)
