@@ -1,6 +1,6 @@
-# 📐 Data Modeling – Bookstore Dashboard
+#  Data Modeling – Bookstore Dashboard
 
-## 🔹 Model
+##  Model
 - **Fact Table**: `books_clean_with_authors_ids_sales`  
   (book_id, title, price, sales_units, rating, author_id)  
 - **Dimension Table**: `authors`  
@@ -8,7 +8,7 @@
 
 **Relationship**: One author → many books.  
 
-## 🔹 Why this design?
+##  Why this design?
 - Simple & fast for DAX + queries.  
 - Easy to extend with new dimensions (publishers, genres, dates).  
 - Supports both book-level and author-level analysis.  
@@ -17,7 +17,7 @@
 
 # 📊 Measures & Visuals
 
-## 🔹 Measures
+##  Measures
 - **Total Revenue**  
 ```DAX
 Total Revenue = SUMX(
@@ -30,7 +30,7 @@ Total Revenue = SUMX(
 Num of Books = DISTINCTCOUNT(books_clean_with_authors_ids_sales[title])
 
 
-🔹 Dashboard Visuals
+##  Dashboard Visuals
 
 -Cards: Total Revenue, Number of Books → quick KPIs.
 -Table: Book details (title, price, rating, cover).
@@ -40,7 +40,7 @@ Num of Books = DISTINCTCOUNT(books_clean_with_authors_ids_sales[title])
 
 
 
- **Dashboard Links**
+ ## Dashboard Links
 
 Dashboard in Google Drive
 (https://drive.google.com/file/d/151yuB9DPJRQZU9aA2e6nka5aaZyAqvd5/view?usp=sharing)
