@@ -32,10 +32,10 @@ Num of Books = DISTINCTCOUNT(books_clean_with_authors_ids_sales[title])
 ```
 ##  Dashboard Visuals
 
--Cards: Total Revenue, Number of Books → quick KPIs.
--Table: Book details (title, price, rating, cover).
--Line Charts: Best & Worst Selling Books → identify performance.
--Pie Charts: Most & Least Published Authors → author productivity.
+-Cards: Total Revenue, Number of Books → quick KPIs,
+-Table: Book details (title, price, rating, cover),
+-Line Charts: Best & Worst Selling Books → identify performance,
+-Pie Charts: Most & Least Published Authors → author productivity,
 -Slicer: Filter by Book Title → interactivity.
 
 
