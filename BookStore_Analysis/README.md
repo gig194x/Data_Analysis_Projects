@@ -4,7 +4,7 @@
 ---
 
 ## Project Scope 🎯 
-file [link](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/Scope.md)
+[link](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/Scope.md)
 - Define the main business problem: Decline in bookstore sales.  
 - Key objectives:  
   - Analyze book sales performance.  
