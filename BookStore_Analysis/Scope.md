@@ -31,7 +31,7 @@ It defines exactly what I will do, how I will do it, and what the final outputs 
    - Data Testing using Python (unit tests).  
    - Data Analysis with SQL Server and BigQuery.  
    - Data Visualization in Power BI and Google Slides.  
-   - Documentation and publishing the project on GitHub.  
+   - Documentation and publishing the project on GitHub using Git commands.  
 
 ---
 
