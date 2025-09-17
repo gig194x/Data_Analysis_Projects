@@ -12,12 +12,7 @@
 ---
 ## 1-Project Scope 🎯 
 [Link](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/Scope.md)
-- Define the main business problem:
-1. Why are sales declining?
-2. Why do these books generate low revenue?
-3. Why do they have few sales units?
-4. Why are customers not attracted?
-5. Why are books overpriced or poorly rated?
+- Define the main business problem: **Why are sales declining?**
    
 - Key objectives:  
   - Analyze book sales performance.  
