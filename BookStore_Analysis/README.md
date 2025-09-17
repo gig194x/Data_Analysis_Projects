@@ -65,7 +65,8 @@
 - Final presentation slides created in **Google Slides** to summarize:  
   - Project scope and objectives.    
   - Key insights from SQL and Power BI analysis.  
-  - Business recommendations.  
+  - Business recommendations.
+  **This presentation is intended for stakeholders with no technical background**
 
 ---
 
