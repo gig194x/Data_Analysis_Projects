@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-# 1. **Online Bookstore Sales Analysis_Project** 📊
+# 1. **Online Bookstore Sales Analysis Project** 📊
    - Focus: Understanding decline in sales, author impact, and book performance.
 
 ## Tools Used
