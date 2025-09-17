@@ -1,4 +1,4 @@
-#  Data Modeling – Bookstore Dashboard
+#   Bookstore Dashboard - Data Modeling 
 
 ##  Model
 - **Fact Table**: `books_clean_with_authors_ids_sales`  
