@@ -1,6 +1,6 @@
 #   Bookstore Dashboard - Data Modeling 
 
-##  Model
+## Data Model 📊
 - **Fact Table**: `books_clean_with_authors_ids_sales`  
   (book_id, title, price, sales_units, rating, **author_id**)  
 - **Dimension Table**: `authors`  
@@ -14,9 +14,7 @@
 
 ---
 
-# 📊 Measures & Visuals
-
-##  Measures
+## Measures 📊
 ```DAX
 Total Revenue = SUMX(
     books_clean_with_authors_ids_sales,
@@ -28,7 +26,7 @@ Total Revenue = SUMX(
 Num of Books = DISTINCTCOUNT(books_clean_with_authors_ids_sales[title])
 
 ```
-## 📊 Dashboard Visuals
+## Dashboard Visuals 📊
 
 - **Cards**: Total Revenue, Number of Books → quick KPIs  
 - **Table**: Book details (title, price, rating, cover)  
