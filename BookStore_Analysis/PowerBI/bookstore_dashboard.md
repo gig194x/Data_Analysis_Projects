@@ -2,11 +2,10 @@
 
 ##  Model
 - **Fact Table**: `books_clean_with_authors_ids_sales`  
-  (book_id, title, price, sales_units, rating, author_id)  
+  (book_id, title, price, sales_units, rating, **author_id**)  
 - **Dimension Table**: `authors`  
-  (author_id, author_name)  
+  (**author_id**, author_name)  
 
-**Relationship**: One author → many books.  
 
 ##  Why this design?
 - Simple & fast for DAX + queries.  
