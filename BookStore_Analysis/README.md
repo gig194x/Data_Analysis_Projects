@@ -3,7 +3,14 @@
 
 ---
 
-## Project Scope 🎯 
+## Tools Used
+- Python (Scrapy, Pandas, unite_test)
+- SQL Server & BigQuery
+- Power BI(power query, Measures, DAX, Modeling, Visualization)
+- Google Slides
+
+---
+## 1-Project Scope 🎯 
 [Link](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/Scope.md)
 - Define the main business problem: Decline in bookstore sales.  
 - Key objectives:  
@@ -14,16 +21,9 @@
  
 ---
 
-## Tools Used
-- Python (Scrapy, Pandas, unite_test)
-- SQL Server & BigQuery
-- Power BI(power query, Measures, DAX, Modeling, Visualization)
-
----
-
 ## This Project Contains:
 
-### 📂 Data Folder
+### 2-📂 Data Folder
 - **Collecting file**: Python code using Scrapy Framework to scrape the Online Bookstore and save data into DataFrame, Excel sheet, and CSV file.  
   [Collecting Data](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/Data/Collecting.py)  
 
@@ -38,7 +38,7 @@
 
 ---
 
-### 📂 SQL Folder
+### 3-📂 SQL Folder
 - **SQL Queries code** in queries file:  
   [SQL Queries](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/SQL/sql.md)  
 
@@ -48,7 +48,7 @@
   
 ---
 
-### 📂 PowerBI Folder 
+### 4-📂 PowerBI Folder 
 [Link](https://github.com/gig194x/Data_Analysis_Projects/tree/main/BookStore_Analysis/PowerBI)
 - Interactive dashboards created using **Power BI** to visualize:  
   - Total revenue per author.  
@@ -59,7 +59,7 @@
 
 ---
 
-### 📂 Presentation Folder 
+### 5-📂 Presentation Folder 
 [link](https://github.com/gig194x/Data_Analysis_Projects/tree/main/BookStore_Analysis/Presentation)
 - Final presentation slides created in **Google Slides** to summarize:  
   - Project scope and objectives.    
