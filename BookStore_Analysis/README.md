@@ -66,6 +66,7 @@
   - Project scope and objectives.    
   - Key insights from SQL and Power BI analysis.  
   - Business recommendations.
+    
   **This presentation is intended for stakeholders with no technical background**
 
 ---
