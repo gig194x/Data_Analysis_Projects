@@ -4,7 +4,7 @@
 ---
 
 ## Project Scope 🎯 
-[link](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/Scope.md)
+[Link](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/Scope.md)
 - Define the main business problem: Decline in bookstore sales.  
 - Key objectives:  
   - Analyze book sales performance.  
@@ -48,7 +48,8 @@
   
 ---
 
-### 📂 PowerBI Folder [link](https://github.com/gig194x/Data_Analysis_Projects/tree/main/BookStore_Analysis/PowerBI)
+### 📂 PowerBI Folder 
+[Link](https://github.com/gig194x/Data_Analysis_Projects/tree/main/BookStore_Analysis/PowerBI)
 - Interactive dashboards created using **Power BI** to visualize:  
   - Total revenue per author.  
   - Top/Bottom performing books.  
@@ -58,7 +59,8 @@
 
 ---
 
-### 📂 Presentation Folder [linkl(https://github.com/gig194x/Data_Analysis_Projects/tree/main/BookStore_Analysis/Presentation)
+### 📂 Presentation Folder 
+[link](https://github.com/gig194x/Data_Analysis_Projects/tree/main/BookStore_Analysis/Presentation)
 - Final presentation slides created in **Google Slides** to summarize:  
   - Project scope and objectives.    
   - Key insights from SQL and Power BI analysis.  
