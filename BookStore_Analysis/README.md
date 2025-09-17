@@ -5,7 +5,8 @@
 
 ---
 
-## Project Scope 🎯
+## Project Scope 🎯 
+file [link](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/Scope.md)
 - Define the main business problem: Decline in bookstore sales.  
 - Key objectives:  
   - Analyze book sales performance.  
@@ -26,16 +27,16 @@
 
 ### 📂 Data Folder
 - **Collecting file**: Python code using Scrapy Framework to scrape the Online Bookstore and save data into DataFrame, Excel sheet, and CSV file.  
-  [Collecting Data](https://github.com/gig194x/Data_Analysis_Projects/blob/main/Data/Collecting)  
+  [Collecting Data](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/Data/Collecting.py)  
 
 - **Cleaning file**: Python code using Pandas Framework to clean and structure the data.  
-  [Cleaning Data](https://github.com/gig194x/Data_Analysis_Projects/blob/main/Data/Cleaning)  
+  [Cleaning Data](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/Data/Cleaning.py)  
 
 - **Testing**: Python test code using unittest framework and OOP to validate that:  
   - No missing values.  
   - All prices are numeric.  
   - Ratings are within the range 1 to 5.  
-  [Testing Data](https://github.com/gig194x/Data_Analysis_Projects/blob/main/Data/Testing)  
+  [Testing Data](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/Data/Testing.py)  
 
 ---
 
