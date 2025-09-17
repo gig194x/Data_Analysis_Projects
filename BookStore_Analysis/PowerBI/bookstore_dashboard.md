@@ -2,10 +2,13 @@
 
 ## Data Model 📊
 - **Fact Table**: `books_clean_with_authors_ids_sales`  
-  (book_id, title, price, sales_units, rating, **author_id**)  
+  (book_id, **title**, price, sales_units, rating, **author_id**)  
 - **Dimension Table**: `authors`  
   (**author_id**, author_name)  
-
+- **Dimension Table**: `sales`  
+  (**title**, unit_sales, revenue)
+- **Dimension Table**: `books_img`  
+  (**title**, img)  
 
 ##  Why this design?
 - Simple & fast for DAX + queries.  
