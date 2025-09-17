@@ -41,6 +41,6 @@ Num of Books = DISTINCTCOUNT(books_clean_with_authors_ids_sales[title])
 
  ## Dashboard & Data Model Links
  
-in [Google Drive]([https://drive.google.com/file/d/151yuB9DPJRQZU9aA2e6nka5aaZyAqvd5/view?usp=sharing](https://drive.google.com/file/d/1imNknTjgaPTZrPDHNSDtJH23fJtN7ugj/view?usp=sharing))
+in [Google Drive](https://drive.google.com/file/d/1imNknTjgaPTZrPDHNSDtJH23fJtN7ugj/view?usp=sharing)
 
 in [Power BI Service (Cloud)](https://app.powerbi.com/groups/abc33743-11f1-4cc6-a0f8-0af59e0e9a8c/reports/a872ad24-ea6f-40bd-988d-0b708a01832d/9cbd29265d740196aaf2?experience=power-bi)
