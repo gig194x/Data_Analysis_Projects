@@ -18,7 +18,6 @@
 # 📊 Measures & Visuals
 
 ##  Measures
-- **Total Revenue**  
 ```DAX
 Total Revenue = SUMX(
     books_clean_with_authors_ids_sales,
