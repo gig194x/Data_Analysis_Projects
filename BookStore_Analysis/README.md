@@ -45,7 +45,7 @@
 
 - **SQL Queries in SQL Server & BigQuery** in md file:
 - has link to show queries in  SQL Server & BigQuery
-  [SQL Queries](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/SQL/sql.md)
+  [SQL Database](https://github.com/gig194x/Data_Analysis_Projects/blob/main/BookStore_Analysis/SQL/sql.md)
   
 ---
 
