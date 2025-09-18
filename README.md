@@ -14,4 +14,4 @@ Make it to implement most of the skills i had learned
 
 ---
 
-✍️ More projects will be added soon! Stay tuned.
+✍️ More projects will be added soon!
