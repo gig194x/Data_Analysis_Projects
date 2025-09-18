@@ -52,9 +52,9 @@
 ### 4-📂 PowerBI Folder 
 [Link](https://github.com/gig194x/Data_Analysis_Projects/tree/main/BookStore_Analysis/PowerBI)
 - Interactive dashboards created using **Power BI** to visualize:  
-  - Total revenue per author.  
+  - Total revenue.  
   - Top/Bottom performing books.  
-  - Trends in sales decline.  
+  - Top/Bottom performing authors.  
   - Comparison of ratings vs sales.
   - links to **show** the dashboard & data model
 
@@ -64,7 +64,7 @@
 [link](https://github.com/gig194x/Data_Analysis_Projects/tree/main/BookStore_Analysis/Presentation)
 - Final presentation slides created in **Google Slides** to summarize:  
   - Project scope and objectives.    
-  - Key insights from SQL and Power BI analysis.  
+  - Key insights .  
   - Business recommendations.
     
   **Note: This presentation is intended for stakeholders with no technical background**
