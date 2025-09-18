@@ -61,7 +61,7 @@
 ---
 
 ### 5-📂 Presentation Folder 
-[link](https://github.com/gig194x/Data_Analysis_Projects/tree/main/BookStore_Analysis/Presentation)
+[link](https://docs.google.com/presentation/d/1fPHUvRkRyDQlSZ79OXrzQCq1vRV4ks_f4Vx7nEw4bsE/edit?usp=sharing)
 - Final presentation slides created in **Google Slides** to summarize:  
   - Project scope and objectives.    
   - Key insights .  
