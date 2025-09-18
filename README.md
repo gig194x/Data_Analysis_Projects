@@ -4,7 +4,7 @@ This repository contains a all my data analysis projects that demonstrate skills
 
 ## 📂 Projects
 
-### 1. [BookStore Analysis](./BookStore_Analysis)
+### 1. [Book_Store Analysis](./BookStore_Analysis)
 
 Analyze bookstore sales, prices, and ratings to uncover insights.
 
