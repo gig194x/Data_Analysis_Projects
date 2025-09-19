@@ -1,6 +1,6 @@
 # 📊 Data Analysis Projects
 
-This repository contains a all my data analysis projects that demonstrate skills in **data cleaning, SQL, visualization, and reporting**.
+This repository contains a all my data analysis projects that demonstrate skills .
 
 ## 📂 Projects
 
